@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# Ip Geolocation 
-#By : Lucifer
+# Ip Geolocation tracker india
+#By : praveen jangid 
 # Demo : https://www.youtube.com/watch?v=0Eq3d10LQ8c
 #
 # API documentation - http://ip-api.com/docs/
@@ -41,9 +41,8 @@ print q{
    88`  i888888fo_X_of888888i  '88
    V    YY'`~'`  ~~~  '` ~ YY    V
         ""                 ""
-
-Ip Geolocation Tool  
-By : Lucifer
+contact me on my ig pavi_x_jangid for any type of hacking  
+By : praveen jangid 
 
 ------------------------------------
 };
